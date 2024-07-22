@@ -1,0 +1,6 @@
+@GraphQLHotChocolate_HostAddress = http://localhost:5067
+
+GET {{GraphQLHotChocolate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

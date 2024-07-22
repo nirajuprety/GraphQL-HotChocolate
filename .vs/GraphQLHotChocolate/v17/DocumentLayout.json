@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GraphQL\\GraphQLHotChocolate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|d:\\graphql\\graphqlhotchocolate\\graphqlhotchocolate\\graphql\\queries\\productquerytypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|solutionrelative:graphqlhotchocolate\\graphql\\queries\\productquerytypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|d:\\graphql\\graphqlhotchocolate\\graphqlhotchocolate\\graphql\\mutations\\productmutations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|solutionrelative:graphqlhotchocolate\\graphql\\mutations\\productmutations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|d:\\graphql\\graphqlhotchocolate\\graphqlhotchocolate\\repositories\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|solutionrelative:graphqlhotchocolate\\repositories\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|d:\\graphql\\graphqlhotchocolate\\graphqlhotchocolate\\entities\\productdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|solutionrelative:graphqlhotchocolate\\entities\\productdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|d:\\graphql\\graphqlhotchocolate\\graphqlhotchocolate\\repositories\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|solutionrelative:graphqlhotchocolate\\repositories\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|d:\\graphql\\graphqlhotchocolate\\graphqlhotchocolate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|solutionrelative:graphqlhotchocolate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|d:\\graphql\\graphqlhotchocolate\\graphqlhotchocolate\\response\\executeresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|solutionrelative:graphqlhotchocolate\\response\\executeresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|d:\\graphql\\graphqlhotchocolate\\graphqlhotchocolate\\response\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|solutionrelative:graphqlhotchocolate\\response\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|d:\\graphql\\graphqlhotchocolate\\graphqlhotchocolate\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|solutionrelative:graphqlhotchocolate\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|d:\\graphql\\graphqlhotchocolate\\graphqlhotchocolate\\data\\dbcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|solutionrelative:graphqlhotchocolate\\data\\dbcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|d:\\graphql\\graphqlhotchocolate\\graphqlhotchocolate\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|solutionrelative:graphqlhotchocolate\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|d:\\graphql\\graphqlhotchocolate\\graphqlhotchocolate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A3181DA-04BB-4190-8448-824FF910BC76}|GraphQLHotChocolate\\GraphQLHotChocolate.csproj|solutionrelative:graphqlhotchocolate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductMutations.cs",
+              "DocumentMoniker": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\GraphQL\\Mutations\\ProductMutations.cs",
+              "RelativeDocumentMoniker": "GraphQLHotChocolate\\GraphQL\\Mutations\\ProductMutations.cs",
+              "ToolTip": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\GraphQL\\Mutations\\ProductMutations.cs",
+              "RelativeToolTip": "GraphQLHotChocolate\\GraphQL\\Mutations\\ProductMutations.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwCoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:48:56.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductQueryTypes.cs",
+              "DocumentMoniker": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\GraphQL\\Queries\\ProductQueryTypes.cs",
+              "RelativeDocumentMoniker": "GraphQLHotChocolate\\GraphQL\\Queries\\ProductQueryTypes.cs",
+              "ToolTip": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\GraphQL\\Queries\\ProductQueryTypes.cs",
+              "RelativeToolTip": "GraphQLHotChocolate\\GraphQL\\Queries\\ProductQueryTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:47:10.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDetails.cs",
+              "DocumentMoniker": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\Entities\\ProductDetails.cs",
+              "RelativeDocumentMoniker": "GraphQLHotChocolate\\Entities\\ProductDetails.cs",
+              "ToolTip": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\Entities\\ProductDetails.cs",
+              "RelativeToolTip": "GraphQLHotChocolate\\Entities\\ProductDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:43:13.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\Repositories\\IProductService.cs",
+              "RelativeDocumentMoniker": "GraphQLHotChocolate\\Repositories\\IProductService.cs",
+              "ToolTip": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\Repositories\\IProductService.cs",
+              "RelativeToolTip": "GraphQLHotChocolate\\Repositories\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:45:19.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\Program.cs",
+              "RelativeDocumentMoniker": "GraphQLHotChocolate\\Program.cs",
+              "ToolTip": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\Program.cs",
+              "RelativeToolTip": "GraphQLHotChocolate\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAnwBkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:49:39.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\Repositories\\ProductService.cs",
+              "RelativeDocumentMoniker": "GraphQLHotChocolate\\Repositories\\ProductService.cs",
+              "ToolTip": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\Repositories\\ProductService.cs",
+              "RelativeToolTip": "GraphQLHotChocolate\\Repositories\\ProductService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:45:40.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExecuteResult.cs",
+              "DocumentMoniker": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\Response\\ExecuteResult.cs",
+              "RelativeDocumentMoniker": "GraphQLHotChocolate\\Response\\ExecuteResult.cs",
+              "ToolTip": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\Response\\ExecuteResult.cs",
+              "RelativeToolTip": "GraphQLHotChocolate\\Response\\ExecuteResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:46:41.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductResponse.cs",
+              "DocumentMoniker": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\Response\\ProductResponse.cs",
+              "RelativeDocumentMoniker": "GraphQLHotChocolate\\Response\\ProductResponse.cs",
+              "ToolTip": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\Response\\ProductResponse.cs",
+              "RelativeToolTip": "GraphQLHotChocolate\\Response\\ProductResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:17:49.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "GraphQLHotChocolate\\Data\\SeedData.cs",
+              "ToolTip": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\Data\\SeedData.cs",
+              "RelativeToolTip": "GraphQLHotChocolate\\Data\\SeedData.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAnwCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:44:26.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbContextClass.cs",
+              "DocumentMoniker": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\Data\\DbContextClass.cs",
+              "RelativeDocumentMoniker": "GraphQLHotChocolate\\Data\\DbContextClass.cs",
+              "ToolTip": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\Data\\DbContextClass.cs",
+              "RelativeToolTip": "GraphQLHotChocolate\\Data\\DbContextClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:43:56.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "GraphQLHotChocolate\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "GraphQLHotChocolate\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T10:08:00.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\appsettings.json",
+              "RelativeDocumentMoniker": "GraphQLHotChocolate\\appsettings.json",
+              "ToolTip": "D:\\GraphQL\\GraphQLHotChocolate\\GraphQLHotChocolate\\appsettings.json",
+              "RelativeToolTip": "GraphQLHotChocolate\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-21T10:07:05.051Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1354,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
