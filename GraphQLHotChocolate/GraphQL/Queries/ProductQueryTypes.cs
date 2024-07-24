@@ -9,7 +9,7 @@ namespace GraphQLHotChocolate.GraphQL.Queries
         {
             return await productService.ProductListAsync();
         }
-
+        //
         public async Task<ProductDetails> GetProductDetailsByIdAsync([Service] IProductService productService, int productId)
         {
             var result = await productService.GetProductDetailByIdAsync(productId);
